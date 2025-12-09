@@ -11,7 +11,7 @@ import SwiftUI
 struct ARJumpGameApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ActivityARJumpView()
         }
     }
 }
