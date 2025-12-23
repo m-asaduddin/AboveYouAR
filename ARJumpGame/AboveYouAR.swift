@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ARJumpGameApp: App {
+struct AboveYouAR: App {
     var body: some Scene {
         WindowGroup {
             ActivityARJumpView()

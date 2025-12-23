@@ -12,7 +12,7 @@
 
 /* Begin PBXFileReference section */
 		C39EEA1C2EE88F480037144C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		C3F0DD632EE7E6AB00110173 /* ARJumpGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARJumpGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C3F0DD632EE7E6AB00110173 /* AboveYouAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AboveYouAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -46,7 +46,7 @@
 		C3F0DD642EE7E6AB00110173 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C3F0DD632EE7E6AB00110173 /* ARJumpGame.app */,
+				C3F0DD632EE7E6AB00110173 /* AboveYouAR.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -54,9 +54,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C3F0DD622EE7E6AB00110173 /* ARJumpGame */ = {
+		C3F0DD622EE7E6AB00110173 /* AboveYouAR */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C3F0DD6E2EE7E6AC00110173 /* Build configuration list for PBXNativeTarget "ARJumpGame" */;
+			buildConfigurationList = C3F0DD6E2EE7E6AC00110173 /* Build configuration list for PBXNativeTarget "AboveYouAR" */;
 			buildPhases = (
 				C3F0DD5F2EE7E6AB00110173 /* Sources */,
 				C3F0DD602EE7E6AB00110173 /* Frameworks */,
@@ -69,11 +69,11 @@
 			fileSystemSynchronizedGroups = (
 				C3F0DD652EE7E6AB00110173 /* ARJumpGame */,
 			);
-			name = ARJumpGame;
+			name = AboveYouAR;
 			packageProductDependencies = (
 			);
 			productName = ARJumpGame;
-			productReference = C3F0DD632EE7E6AB00110173 /* ARJumpGame.app */;
+			productReference = C3F0DD632EE7E6AB00110173 /* AboveYouAR.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -91,7 +91,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C3F0DD5E2EE7E6AB00110173 /* Build configuration list for PBXProject "ARJumpGame" */;
+			buildConfigurationList = C3F0DD5E2EE7E6AB00110173 /* Build configuration list for PBXProject "AboveYouAR" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -105,7 +105,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C3F0DD622EE7E6AB00110173 /* ARJumpGame */,
+				C3F0DD622EE7E6AB00110173 /* AboveYouAR */,
 			);
 		};
 /* End PBXProject section */
@@ -263,6 +263,7 @@
 				DEVELOPMENT_TEAM = B6SZL9KS58;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Above You AR";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Kami menggunakan kamera untuk menampilkan AR";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -276,7 +277,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.asaduddin.porto.ARJumpGame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.asaduddin.porto.AboveYouAR;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -302,6 +303,7 @@
 				DEVELOPMENT_TEAM = B6SZL9KS58;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Above You AR";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Kami menggunakan kamera untuk menampilkan AR";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -315,7 +317,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.asaduddin.porto.ARJumpGame;
+				PRODUCT_BUNDLE_IDENTIFIER = com.asaduddin.porto.AboveYouAR;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -334,7 +336,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C3F0DD5E2EE7E6AB00110173 /* Build configuration list for PBXProject "ARJumpGame" */ = {
+		C3F0DD5E2EE7E6AB00110173 /* Build configuration list for PBXProject "AboveYouAR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C3F0DD6C2EE7E6AC00110173 /* Debug */,
@@ -343,7 +345,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C3F0DD6E2EE7E6AC00110173 /* Build configuration list for PBXNativeTarget "ARJumpGame" */ = {
+		C3F0DD6E2EE7E6AC00110173 /* Build configuration list for PBXNativeTarget "AboveYouAR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C3F0DD6F2EE7E6AC00110173 /* Debug */,
